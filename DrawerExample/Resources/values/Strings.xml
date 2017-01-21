@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="DrawerOpenDescription">Open Navigation Drawer</string>
+  <string name="DrawerCloseDescription">Close Navigation Drawer</string>
+  <string name="ApplicationName">DrawerExample</string>
+</resources>
